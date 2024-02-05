@@ -1,0 +1,14 @@
+WHILE COMMITTING FIRST
+
+git add .
+git commit -m "message"
+git branch -M main
+git remote add origin git@github.com:Neshkannan/demo.git
+git push -u origin main
+
+---------------------------------------------------------------------------------------------------------------
+FROM SECOND TO n.no OF COMMITS, below three way is more than enough
+
+git add .
+git commit -m "message"
+git push
